@@ -18,26 +18,19 @@ Currently, I am expanding my knowledge in:
 
 ## 🚀 Technical Skills
 
-### 💻 Programming Languages
-  Java • Python • JavaScript 
+**💻 Programming Languages:**  Java • Python • JavaScript 
 
-### 🎨 Frontend Development
-  HTML5 • CSS3 • Bootstrap • React Native
+**🎨 Frontend Development:**  HTML5 • CSS3 • Bootstrap • React Native
 
-### ⚙️ Backend Development
-  Spring Boot • JSP • Servlets • REST APIs
+**⚙️ Backend Development:**  Spring Boot • JSP • Servlets • REST APIs
 
-### 🗄️ Databases
-  MySQL • MongoDB
+**🗄️ Databases:**  MySQL • MongoDB
 
-### 🔧 Tools & Platforms
-  Git • GitHub • IntelliJ IDEA • VS Code • Figma • Canva
+**🔧 Tools & Platforms:**  Git • GitHub • IntelliJ IDEA • VS Code • Figma • Canva
 
-### 📚 Core Concepts
-  Object-Oriented Programming (OOP) • Data Structures & Algorithms • MVC Architecture • CRUD Operations • SOLID Principles • UML Modeling • Software Engineering Principles
+**📚 Core Concepts:**  Object-Oriented Programming (OOP) • Data Structures & Algorithms • MVC Architecture • CRUD Operations • SOLID Principles • UML Modeling • Software Engineering Principles
 
-### 🤖 AI & Machine Learning
-  Machine Learning Fundamentals • Data Analysis • AI-Powered Recommendation Systems
+**🤖 AI & Machine Learning:**  Machine Learning Fundamentals • Data Analysis • AI-Powered Recommendation Systems
 
 ---
 
