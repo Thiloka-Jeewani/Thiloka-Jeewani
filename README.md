@@ -77,134 +77,40 @@ Currently, I am expanding my knowledge in:
 
 # 💼 Featured Projects
 
-## 🧺 Web-Based Laundry Management System
+### 🧺 Laundry Management System
+A web-based system for managing laundry orders, customers, deliveries, and staff operations.
 
-A comprehensive laundry management platform developed to manage customers, laundry staff, suppliers, deliveries, and administrative operations.
-
-### Features
-- Customer Registration & Login
-- Order Management
-- Laundry Processing Tracking
-- Supplier Management
-- Delivery Management
-- Admin Dashboard
-- CRUD Operations
-
-### Technologies Used
-- Java
-- JSP
-- Servlets
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git & GitHub
-
-### Software Engineering Concepts
-- OOP
-- MVC Architecture
-- CRUD Operations
-- UML Diagrams
+**Tech Stack:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
 
 ---
 
-## ✈️ AI-Powered Travel Planning System
+### ✈️ AI-Powered Travel Planning System
+An intelligent travel planner that recommends destinations and helps users create personalized travel itineraries.
 
-An intelligent travel recommendation platform that helps users plan trips based on preferences and interests.
-
-### Features
-- Destination Recommendations
-- Personalized Travel Planning
-- AI-Based Suggestions
-- User-Friendly Interface
-
-### Technologies Used
-- Python
-- Machine Learning
-- HTML
-- CSS
-- JavaScript
-- GitHub
-
-### Concepts Applied
-- AI Recommendation Logic
-- Data Processing
-- User Preference Analysis
+**Tech Stack:** Python, Machine Learning, HTML, CSS, JavaScript
 
 ---
 
-## 🌱 Greenhouse Automation System
+### 🌱 Greenhouse Automation System
+A smart greenhouse solution for monitoring temperature, humidity, water supply, and energy usage.
 
-A smart greenhouse management solution designed to automate environmental monitoring and control.
-
-### Features
-- Temperature Monitoring
-- Humidity Monitoring
-- Automated Water Supply
-- Energy Management
-- Smart Alerts
-
-### Technologies Used
-- Python
-- IoT Concepts
-- Sensor Data Processing
-- GitHub
-
-### Concepts Applied
-- Automation
-- Smart Agriculture
-- Environmental Monitoring
+**Tech Stack:** Python, IoT Concepts, Sensor Data Processing
 
 ---
 
-## 🚗 Vehicle Rental Application
+### 🚗 Vehicle Rental App
+A mobile application for browsing vehicles, managing bookings, and tracking rentals.
 
-A vehicle rental platform that allows users to browse, reserve, and manage vehicle bookings.
-
-### Features
-- Vehicle Listing
-- Booking Management
-- Customer Management
-- Rental Tracking
-
-### Technologies Used
-- React Native
-- Spring Boot
-- MongoDB
-- REST APIs
-
-### Concepts Applied
-- Mobile App Development
-- Backend API Development
-- Database Management
+**Tech Stack:** React Native, Spring Boot, MongoDB, REST APIs
 
 ---
 
-## 🏨 Hotel Management System
+### 🏨 Hotel Management System
+A web-based system for managing hotel reservations, rooms, customers, and staff.
 
-A web-based hotel management application developed as part of academic learning.
+**Tech Stack:** Java, JSP, Servlets, HTML, CSS, JavaScript
 
-### Features
-- Room Management
-- Reservation Management
-- Customer Management
-- Staff Management
-- Billing System
-
-### Technologies Used
-- Java
-- JSP
-- Servlets
-- HTML
-- CSS
-- JavaScript
-- File Handling
-
-### Concepts Applied
-- OOP
-- CRUD Operations
-- File-Based Data Storage
-----
+---
 
 ## 🏆 Goals
 
