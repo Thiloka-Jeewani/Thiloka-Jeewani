@@ -22,7 +22,6 @@ Currently, I am expanding my knowledge in:
 - Java
 - Python
 - JavaScript
-- SQL
 
 ### Frontend Development
 - HTML5
@@ -59,8 +58,6 @@ Currently, I am expanding my knowledge in:
 - GitHub
 - IntelliJ IDEA
 - VS Code
-- Eclipse IDE
-- Postman
 - Figma
 - Canva
 
@@ -207,18 +204,7 @@ A web-based hotel management application developed as part of academic learning.
 - OOP
 - CRUD Operations
 - File-Based Data Storage
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Thiloka-Jeewani&theme=tokyonight)
-
----
+----
 
 ## 🏆 Goals
 
@@ -226,7 +212,7 @@ A web-based hotel management application developed as part of academic learning.
 - Build Production-Level Full Stack Applications
 - Explore Deep Learning and Generative AI
 - Gain Industry Experience through Internships
-- Become an AI-focused Software Engineer
+- Become an AI Engineer or AI-focused Software Engineer
 
 ---
 
@@ -236,7 +222,7 @@ A web-based hotel management application developed as part of academic learning.
 www.linkedin.com/in/thiloka-kulathunga-b6662433b
 
 📧 Email:
-your-email@example.com
+thilokajeewani888@gmail.com
 
 ---
 
