@@ -228,6 +228,6 @@ thilokajeewani888@gmail.com
 
 ## 💡 Quote I Live By
 
-> "Success is built one line of code at a time."
+"Success is built one line of code at a time."
 
 ⭐ Thank you for visiting my profile!
