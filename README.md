@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiloka-kulathunga" target="_blank">
+  <a href="https://www.linkedin.com/in/thiloka-kulathunga-b6662433b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://thiloka-portfolio-website.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:thilokajeewani888@gmail.com">
@@ -27,7 +27,7 @@
 - 🎓 3rd-year **BSc (Hons) IT** undergraduate specializing in **Artificial Intelligence** at **SLIIT** (CGPA: 3.48/4.00)
 - 🤖 Interested in **AI, Machine Learning, NLP, and Generative AI**
 - 💻 Building full-stack apps with **Python, Java, React, Spring Boot, and MERN**
-- 📊 Comfortable across the ML pipeline — data preprocessing, EDA, model training & evaluation
+- 📊 Comfortable across the ML pipeline:-  data preprocessing, EDA, model training & evaluation
 - 🏆 Active in **hackathons** and team-based coding competitions
 - 🌱 Currently deepening my knowledge of **RAG, Prompt Engineering, and Cloud technologies**
 - 🤝 Open to **internship opportunities** in AI-driven software development
@@ -102,24 +102,26 @@ Automated greenhouse monitoring tracking water level, soil moisture, and light i
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-```
-Artificial Intelligence → Machine Learning → Data Science → Software Engineering → Full-Stack Development → Cloud Technologies
+```text
+        Artificial Intelligence
+                 ↓
+        Machine Learning
+                 ↓
+          Data Science
+                 ↓
+       Software Engineering
+                 ↓
+       Full-Stack Development
+                 ↓
+          Cloud Technologies
 ```
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thiloka's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiloka-Jeewani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" /> </p>
 
 ---
 
