@@ -1,148 +1,128 @@
-# Hi, I'm Thiloka Kulathunga 👋
+<h1 align="center">Hi 👋, I'm Thiloka Jeewani Kulathunga</h1>
+<h3 align="center">AI & Machine Learning Undergraduate | Full-Stack Developer | Building intelligent, real-world software</h3>
 
-# Hi, I'm Thiloka Jeewani 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BSc+(Hons)+IT+%E2%80%93+Specializing+in+AI+%40+SLIIT;Exploring+Machine+Learning+%26+NLP;Full-Stack+Developer+%7C+Python+%2F+Java+%2F+React;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
 
-### AI & Machine Learning Undergraduate | Software Engineering Enthusiast 🤖💻
-
-I'm a 3rd-year **BSc (Hons) in Information Technology undergraduate specializing in Artificial Intelligence** at **SLIIT**.
-
-I enjoy building practical software solutions, exploring AI and Machine Learning, and learning how intelligent systems can be integrated into real-world applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiloka-kulathunga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:thilokajeewani888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Thiloka-Jeewani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 IT Undergraduate specializing in **Artificial Intelligence**
-- 🤖 Interested in **AI, Machine Learning & Data Science**
-- 💻 Passionate about **Software Engineering & Full-Stack Development**
-- 🧠 Exploring **NLP, intelligent systems and AI-powered applications**
-- 🏆 Participating in **hackathons and coding competitions**
-- 🌱 Continuously learning new technologies and development practices
-- 🤝 Interested in **team projects and open-source collaboration**
+- 🎓 3rd-year **BSc (Hons) IT** undergraduate specializing in **Artificial Intelligence** at **SLIIT** (CGPA: 3.48/4.00)
+- 🤖 Interested in **AI, Machine Learning, NLP, and Generative AI**
+- 💻 Building full-stack apps with **Python, Java, React, Spring Boot, and MERN**
+- 📊 Comfortable across the ML pipeline — data preprocessing, EDA, model training & evaluation
+- 🏆 Active in **hackathons** and team-based coding competitions
+- 🌱 Currently deepening my knowledge of **RAG, Prompt Engineering, and Cloud technologies**
+- 🤝 Open to **internship opportunities** in AI-driven software development
+- ⚡ Fun fact: I like turning half-finished ideas into working prototypes overnight
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 </p>
 
-### AI / Machine Learning
+**AI / Machine Learning**
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 
-- Machine Learning
-- Natural Language Processing
-- Data Preprocessing
-- Feature Engineering
-- Classification
-- Model Evaluation
+`Data Preprocessing` · `Feature Engineering` · `EDA` · `NLP Fundamentals` · `Model Evaluation` · `RAG (Basic)` · `Prompt Engineering (Basic)`
 
-### Web Development
-
+**Web Development**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,spring" />
 </p>
 
-### Databases
-
+**Databases**
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### Tools & Platforms
-
+**Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,linux" />
 </p>
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-### ✈️ Lanka Travels — AI-Powered Travel Planning System
+### ✈️ [Lanka Travels — AI-Powered Travel Planning System](https://github.com/Thiloka-Jeewani/AI-Powered-Travel-Planning-System-Lanka-Travels-)
+AI-assisted travel planning system with personalized destination recommendations, backend APIs, and full CRUD database interactions.
+`Python (Flask)` `MySQL` `HTML/CSS/JS` `TypeScript`
 
-An AI-powered travel planning web application designed to help users discover and plan travel experiences.
+### 🎬 [Movie-Sentibot — NLP Sentiment Analysis](https://github.com/Thiloka-Jeewani/MOVIE-SENTIBOT-NLP-Based-Solution-for-Movie-Review-Sentiment-Analysis)
+Classifies movie reviews as positive or negative using ML models, with full EDA and performance visualization on a Kaggle dataset.
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
 
-**Technologies:**  
-`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `TypeScript`
+### 🚗 [DriveMate — Vehicle Rental Management System](https://github.com/Thiloka-Jeewani/Car-Rental-System---Vehicle-Management-module)
+Vehicle rental app with booking, user management, and vehicle listing, backed by MongoDB.
+`HTML/CSS` `Node.js` `MongoDB`
 
-**Focus:**  
-AI recommendations • Data preprocessing • Feature engineering • Web development • Database management
+### 🧺 [FreshWash — Web-Based Laundry Management System](https://github.com/Thiloka-Jeewani/Web-based_Laundry-management-system)
+Customer/staff/admin laundry management platform with full CRUD functionality.
+`Java` `React` `SQL` `Tomcat`
 
----
-
-### 🎬 Movie-Sentibot
-
-A Natural Language Processing project for classifying sentiment in movie-related text.
-
-**Technologies:**  
-`Python` `Scikit-learn` `Pandas` `Kaggle` `Matplotlib`
-
-**Focus:**  
-NLP • Sentiment Analysis • Machine Learning • Data Processing
+### 🌱 IoT-Based Smart Greenhouse System
+Automated greenhouse monitoring tracking water level, soil moisture, and light intensity via integrated sensors and actuators.
+`Arduino` `DHT11` `LDR` `Soil Moisture Sensor`
 
 ---
 
-### 🚗 DriveMate
+## 🏆 Hackathons & Competitions
 
-A vehicle management web application with an administrative dashboard, vehicle bookings, reviews and SOS functionality.
+**🧠 IFS × SLIIT CodeFest 2026** — Built **NeuroForge**, an AI-focused solution, as part of a 4-member team.
+🔗 [Repository](https://github.com/BinaliAssalaarachchi/NeuroForge-Codefest2026)
 
-**Focus:**  
-Software Engineering • Web Development • Database Management
-
----
-
-### 🧺 FreshWash / CrystalWash
-
-A Spring Boot MVC-based application connected to MySQL for managing a laundry service system.
-
-**Technologies:**  
-`Java` `Spring Boot` `MySQL` `MVC`
-
----
-
-# 🏆 Hackathons & Competitions
-
-### 🧠 IFS × SLIIT CodeFest 2026
-
-Worked as part of a **4-member team** to develop **NeuroForge**, an AI-focused solution for a real-world problem.
-
-**Focus:**  
-AI • Machine Learning • Web Development • Team Collaboration
-
-🔗 [NeuroForge Repository](https://github.com/BinaliAssalaarachchi/NeuroForge-Codefest2026)
-
----
-
-### ⚡ Mini Hackathon - ShareBite LK
-
-Participated in a university mini hackathon where our team developed a functional web application within a limited time.
-Worked on **ShareBite LK**, a platform designed to help cafés, bakeries, caterers and restaurants share surplus food with nearby individuals and community groups.
-
-**Technologies:**  
+**⚡ Mini Hackathon – ShareBite LK** — Built a platform helping cafés, bakeries, caterers and restaurants share surplus food with the community, in a time-boxed team sprint.
 `MongoDB` `Express.js` `React` `Node.js`
 
-**Focus:**  
-Web Development • Full-Stack Development • Team Collaboration • Git/GitHub • Social Impact
+---
 
+## 📚 Currently Learning
+
+```
+Artificial Intelligence → Machine Learning → Data Science → Software Engineering → Full-Stack Development → Cloud Technologies
+```
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Stats
 
-```text
-        Artificial Intelligence
-                 ↓
-        Machine Learning
-                 ↓
-          Data Science
-                 ↓
-       Software Engineering
-                 ↓
-       Full-Stack Development
-                 ↓
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thiloka's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiloka-Jeewani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+
+<p align="center">💡 "Passionate about turning data into decisions and ideas into applications."</p>
           Cloud Technologies
