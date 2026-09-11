@@ -123,11 +123,11 @@ Automated greenhouse monitoring tracking water level, soil moisture, and light i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&theme=tokyonight" alt="Thiloka's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
