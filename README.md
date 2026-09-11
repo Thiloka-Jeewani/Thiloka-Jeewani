@@ -120,8 +120,19 @@ Automated greenhouse monitoring tracking water level, soil moisture, and light i
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiloka-Jeewani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiloka-Jeewani&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiloka-Jeewani&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
