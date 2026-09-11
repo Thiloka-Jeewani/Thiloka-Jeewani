@@ -1,98 +1,148 @@
 # Hi, I'm Thiloka Kulathunga 👋
 
-## 🎓 About Me
+# Hi, I'm Thiloka Jeewani 👋
 
-I'm an IT Undergraduate at SLIIT specializing in Artificial Intelligence.
+### AI & Machine Learning Undergraduate | Software Engineering Enthusiast 🤖💻
 
-I am passionate about software engineering, AI-powered solutions, full-stack development, and building real-world applications that solve practical problems.
+I'm a 3rd-year **BSc (Hons) in Information Technology undergraduate specializing in Artificial Intelligence** at **SLIIT**.
 
-Currently, I am expanding my knowledge in:
-- Artificial Intelligence & Machine Learning
-- Full-Stack Application Development
-- Software Engineering
-- Data Structures & Algorithms
-- Mobile Application Development
-- Cloud Technologies
+I enjoy building practical software solutions, exploring AI and Machine Learning, and learning how intelligent systems can be integrated into real-world applications.
 
 ---
 
-## 🚀 Technical Skills
+## 👩‍💻 About Me
 
-**💻 Programming Languages:**  Java • Python • JavaScript 
-
-**🎨 Frontend Development:**  HTML5 • CSS3 • Bootstrap • React Native
-
-**⚙️ Backend Development:**  Spring Boot • JSP • Servlets • REST APIs
-
-**🗄️ Databases:**  MySQL • MongoDB
-
-**🔧 Tools & Platforms:**  Git • GitHub • IntelliJ IDEA • VS Code • Figma • Canva
-
-**📚 Core Concepts:**  Object-Oriented Programming (OOP) • Data Structures & Algorithms • MVC Architecture • CRUD Operations • SOLID Principles • UML Modeling • Software Engineering Principles
-
-**🤖 AI & Machine Learning:**  Machine Learning Fundamentals • Data Analysis • AI-Powered Recommendation Systems
+- 🎓 IT Undergraduate specializing in **Artificial Intelligence**
+- 🤖 Interested in **AI, Machine Learning & Data Science**
+- 💻 Passionate about **Software Engineering & Full-Stack Development**
+- 🧠 Exploring **NLP, intelligent systems and AI-powered applications**
+- 🏆 Participating in **hackathons and coding competitions**
+- 🌱 Continuously learning new technologies and development practices
+- 🤝 Interested in **team projects and open-source collaboration**
 
 ---
 
-# 💼 Featured Projects
+## 🛠️ Tech Stack
 
-### 🧺 Laundry Management System
-A web-based system for managing laundry orders, customers, deliveries, and staff operations.
+### Languages
 
-**Tech Stack:** Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
+</p>
 
----
+### AI / Machine Learning
 
-### ✈️ AI-Powered Travel Planning System
-An intelligent travel planner that recommends destinations and helps users create personalized travel itineraries.
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
-**Tech Stack:** Python, Machine Learning, HTML, CSS, JavaScript
+- Machine Learning
+- Natural Language Processing
+- Data Preprocessing
+- Feature Engineering
+- Classification
+- Model Evaluation
 
----
+### Web Development
 
-### 🌱 Greenhouse Automation System
-A smart greenhouse solution for monitoring temperature, humidity, water supply, and energy usage.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,spring" />
+</p>
 
-**Tech Stack:** Python, IoT Concepts, Sensor Data Processing
+### Databases
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-### 🚗 Vehicle Rental App
-A mobile application for browsing vehicles, managing bookings, and tracking rentals.
+### Tools & Platforms
 
-**Tech Stack:** React Native, Spring Boot, MongoDB, REST APIs
-
----
-
-### 🏨 Hotel Management System
-A web-based system for managing hotel reservations, rooms, customers, and staff.
-
-**Tech Stack:** Java, JSP, Servlets, HTML, CSS, JavaScript
-
----
-
-## 🏆 Goals
-
-- Contribute to Open Source Projects
-- Build Production-Level Full Stack Applications
-- Explore Deep Learning and Generative AI
-- Gain Industry Experience through Internships
-- Become an AI Engineer or AI-focused Software Engineer
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🚀 Projects
 
-💼 LinkedIn:
-www.linkedin.com/in/thiloka-kulathunga-b6662433b
+### ✈️ Lanka Travels — AI-Powered Travel Planning System
 
-📧 Email:
-thilokajeewani888@gmail.com
+An AI-powered travel planning web application designed to help users discover and plan travel experiences.
+
+**Technologies:**  
+`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript` `TypeScript`
+
+**Focus:**  
+AI recommendations • Data preprocessing • Feature engineering • Web development • Database management
 
 ---
 
-## 💡 Quote I Live By
+### 🎬 Movie-Sentibot
 
-"Success is built one line of code at a time."
+A Natural Language Processing project for classifying sentiment in movie-related text.
 
-⭐ Thank you for visiting my profile!
+**Technologies:**  
+`Python` `Scikit-learn` `Pandas` `Kaggle` `Matplotlib`
+
+**Focus:**  
+NLP • Sentiment Analysis • Machine Learning • Data Processing
+
+---
+
+### 🚗 DriveMate
+
+A vehicle management web application with an administrative dashboard, vehicle bookings, reviews and SOS functionality.
+
+**Focus:**  
+Software Engineering • Web Development • Database Management
+
+---
+
+### 🧺 FreshWash / CrystalWash
+
+A Spring Boot MVC-based application connected to MySQL for managing a laundry service system.
+
+**Technologies:**  
+`Java` `Spring Boot` `MySQL` `MVC`
+
+---
+
+# 🏆 Hackathons & Competitions
+
+### 🧠 IFS × SLIIT CodeFest 2026
+
+Worked as part of a **4-member team** to develop **NeuroForge**, an AI-focused solution for a real-world problem.
+
+**Focus:**  
+AI • Machine Learning • Web Development • Team Collaboration
+
+🔗 [NeuroForge Repository](https://github.com/BinaliAssalaarachchi/NeuroForge-Codefest2026)
+
+---
+
+### ⚡ Mini Hackathon - ShareBite LK
+
+Participated in a university mini hackathon where our team developed a functional web application within a limited time.
+Worked on **ShareBite LK**, a platform designed to help cafés, bakeries, caterers and restaurants share surplus food with nearby individuals and community groups.
+
+**Technologies:**  
+`MongoDB` `Express.js` `React` `Node.js`
+
+**Focus:**  
+Web Development • Full-Stack Development • Team Collaboration • Git/GitHub • Social Impact
+
+
+---
+
+# 📚 Currently Learning
+
+```text
+        Artificial Intelligence
+                 ↓
+        Machine Learning
+                 ↓
+          Data Science
+                 ↓
+       Software Engineering
+                 ↓
+       Full-Stack Development
+                 ↓
+          Cloud Technologies
