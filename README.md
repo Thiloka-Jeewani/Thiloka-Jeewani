@@ -99,6 +99,7 @@ Automated greenhouse monitoring tracking water level, soil moisture, and light i
 
 **⚡ Mini Hackathon – ShareBite LK** — Built a platform helping cafés, bakeries, caterers and restaurants share surplus food with the community, in a time-boxed team sprint.
 `MongoDB` `Express.js` `React` `Node.js`
+🔗[  Deployment URL:](https://sharebitelk-sjkv.vercel.app/))
 
 ---
 
