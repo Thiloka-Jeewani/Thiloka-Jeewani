@@ -62,7 +62,7 @@ I enjoy building software that connects practical engineering with intelligent f
 |:--|:--|:--|
 | 🚌 **Sri Lanka Bus Tracker** | Public transport information and bus-tracking application | [GitHub](https://github.com/Thiloka-Jeewani/sri-lanka-bus-tracker) |
 | ☀️ **Smart Solar Installation & Grid Compliance Platform** | Collaborative full-stack engineering workflows and AI-assisted safety checks | [Team GitHub](https://github.com/ThisulHerath/Smart-Solar-Installation-Grid-Compliance-Platform) · [Live Web App](https://smart-solar-installation-grid-compl-ten.vercel.app/) |
-| 📊 **Telecom Customer Churn Prediction** | Data preparation, classification, and ML model evaluation |[[GitHub]([url](https://github.com/Thiloka-Jeewani/IT3091_Telecom_Churn_Team_2026-AI-17.git))] |
+| 📊 **Telecom Customer Churn Prediction** | Data preparation, classification, and ML model evaluation |[GitHub](https://github.com/Thiloka-Jeewani/IT3091_Telecom_Churn_Team_2026-AI-17.git)|
 | ✈️ **Lanka Travels – AI-Powered Travel Planning** | Personalized travel recommendations, backend APIs, and database operations | [GitHub](https://github.com/Thiloka-Jeewani/AI-Powered-Travel-Planning-System-Lanka-Travels-) |
 | 🎬 **Movie-Sentibot** | NLP-based movie review sentiment classification and visualization | [GitHub](https://github.com/Thiloka-Jeewani/MOVIE-SENTIBOT-NLP-Based-Solution-for-Movie-Review-Sentiment-Analysis) |
 | 🍽️ **ShareBite LK** | Team-built surplus food sharing platform | [Live Demo](https://sharebitelk-sjkv.vercel.app/) |
